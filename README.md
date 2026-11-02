@@ -66,15 +66,15 @@
 |:-----------------------|:--------------------------------|:-------------|
 | ISTQB® Advanced Level Test Automation Engineering |  [Official U.S. List of Certified & Credentialed Software Testers™ Profile](https://atsqa.org/certified-testers/profile/11ec543280ca4e3b81192d14304a726a) | Dec 2022    |
 
-<!--
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karinerb19&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kramos-qa&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 ---
--->
+
 
 ---
 ### 🧠 Quote that inspires me (Frase que me inspira)
